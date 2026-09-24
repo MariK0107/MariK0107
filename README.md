@@ -9,12 +9,6 @@
 
 Sou a **Mariana**, tenho grande admiração pelo **Front-end**, mas também gosto de entender o que acontece por trás de cada solução, e é por isso que o **Back-end** também me atrai. Gosto de colocar a mão na massa para chegar a uma solução, algo que se conecta ao meu interesse por **matemática e lógica**.
 
-- Construindo minha base na programação, um projeto de cada vez
-- Explorando **Node.js**
-- Curiosa por projetos que unem tecnologia e saúde
-- Fora do código: leitura e cinema 
-
-> *Lógica, criatividade e curiosidade: é assim que estou construindo minha trajetória.*
 ---
 
 ## Tecnologias
