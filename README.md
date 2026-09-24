@@ -37,7 +37,7 @@ Projeto que estima a frequência cardíaca a partir de um código em **Python**,
 
 - **Tecnologias:** Python
 - **Conceito:** PPG (fotopletismografia)
-- [Ver repositório](COLE-AQUI-O-LINK-DO-REPOSITORIO)
+- [Ver repositório](https://github.com/MariK0107/Projeto_extensao)
 
 ---
 
